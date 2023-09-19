@@ -1,18 +1,16 @@
-<h1 align="center">Hi 👋, I'm Yume | 渔米</h1>
-<h3 align="center">Cyber security student & Full stack developer</h3>
+<h1 align="center">Hi, I'm Yume | 渔米</h1>
+<h3 align="center">Full stack developer & cyber security researcher</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=yumegod&label=Profile%20views&color=00ccff&style=flat" alt="yumegod" /> <img src="https://img.shields.io/github/followers/yumegod" alt="yumegod" /> </p>
+<p align="center"> <img src="https://visitcount.itsvg.in/api?id=YumeGod&icon=7&color=12" alt="yumegod" /> </p>
 
-- 🔭 I’m currently working on **Anti Reverse Engineering**
 
-- 🌱 I’m currently learning **Advanced Java & Reverse Engineering**
+# 💫 About Me:
+🔭 I’m currently working on software protection & licensing system<br><br>🌱 I’m currently learning anti-reverse engineering<br><br>💬 Ask me about cyber security & anti-reverse engineering <br><br>📫 How to reach me: yume@yumegod.com
 
-- 💬 Ask me about **Web Security & Anti Reverse Engineering**
 
-- 📫 How to reach me **https://yumegod.com/feedback**
-
-<h3 align="left">Languages and Tools I use:</h3>
-<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yumegod&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&" alt="yumegod" /></p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yumegod&show_icons=true&&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40&" alt="yumegod" /></p>
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=YumeGod&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=YumeGod&theme=nord&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=YumeGod&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
