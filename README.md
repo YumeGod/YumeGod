@@ -1,16 +1,11 @@
-<h1 align="center">Hi, I'm Yume | 渔米</h1>
-<h3 align="center">Full stack developer & cyber security researcher</h3>
+![header-bg](https://user-images.githubusercontent.com/50290580/124369381-11ed1800-dc74-11eb-90a9-2ff2073c3b97.jpg)
 
-<p align="center"> <img src="https://visitcount.itsvg.in/api?id=YumeGod&icon=7&color=12" alt="yumegod" /> </p>
+<p align="center">
+  <a href="https://github.com/YumeGod">
+    <img width="100%" src="https://github-widgetbox.vercel.app/api/profile?username=YumeGod&data=followers,repositories,stars,commits" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?frameworks=vue,react,electron,bootstrap,dotnet&tools=git,docker,npm,nodejs,nginx,jupyter,gradle" />
+    <img width="49%" src="https://github-widgetbox.vercel.app/api/skills?names=javascript,java,php,python,html,css,c,cpp,csharp,go,bash,json,mysql,lua" />
+  </a>
+</p>
 
-
-# 💫 About Me:
-🔭 I’m currently working on software protection & licensing system<br><br>🌱 I’m currently learning anti-reverse engineering<br><br>💬 Ask me about cyber security & anti-reverse engineering <br><br>📫 How to reach me: yume@yumegod.com
-
-
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Lua](https://img.shields.io/badge/lua-%232C2D72.svg?style=for-the-badge&logo=lua&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=YumeGod&theme=nord&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=YumeGod&theme=nord&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=YumeGod&theme=nord&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![footer-bg](https://user-images.githubusercontent.com/50290580/124369382-144f7200-dc74-11eb-807a-f10a7a502dd9.jpg)
